@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script automates slot machine interactions within the Golden Hour Casino on Roblox. It provides a user-friendly interface to toggle automation for different slot types, enhancing the gaming experience by reducing manual effort.
+This script automates slot machine interactions within the Golden Hour Hotel's Casino. You lazy gambling addict. It works really well. I've made 2 million already.
 
 ## Features
 
@@ -26,22 +26,19 @@ The script continuously searches for slot machines in the game environment and i
 
 ## Usage
 
-1. **Execution**: Run the script in a Roblox environment where the Golden Hour Casino is accessible.
+1. **Execution**: Run the script in the Golden Hour Hotel's Casino.
 2. **GUI Interaction**: Use the on-screen buttons to control slot automation:
    - Click on the respective slot buttons (1C, 10C, 100C) to toggle their automation on or off.
    - Use the "Toggle All Slots" button to control all slot automations simultaneously.
    - Click "Destroy" to stop the script and remove the GUI.
 
 ## Requirements
-
-- **Roblox Account**: Ensure you are logged into your Roblox account.
-- **Golden Hour Casino Access**: Access to the Golden Hour Casino within Roblox.
 - **Execution Environment**: A platform or executor capable of running Roblox scripts.
 
 ## Disclaimer
 
 - **Educational Purposes**: This script is intended for educational purposes only.
-- **Use at Your Own Risk**: The use of automation scripts may violate Roblox's terms of service. Use this script responsibly and at your own risk.
+- **Use at Your Own Risk**: The use of exploits violates Roblox's terms of service. Use this script responsibly and at your own risk.
 - **No Warranty**: The script is provided "as-is" without any warranty. The creator is not responsible for any consequences arising from its use.
 
 ## License
