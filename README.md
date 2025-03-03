@@ -1,4 +1,6 @@
 # Golden Hour Casino Slot Automation Script
+## Loadstring
+loadstring(game:HttpGet('https://raw.githubusercontent.com/8GOB5/Golden-Hour-Casino/refs/heads/main/GobsAutoPlay.lua'))()
 
 ## Overview
 
