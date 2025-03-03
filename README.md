@@ -1,7 +1,8 @@
 # Golden Hour Casino Slot Automation Script
-## Loadstring
+# Loadstring
+```
 loadstring(game:HttpGet('https://raw.githubusercontent.com/8GOB5/Golden-Hour-Casino/refs/heads/main/GobsAutoPlay.lua'))()
-
+```
 ## Overview
 
 This script automates slot machine interactions within the Golden Hour Hotel's Casino. You lazy gambling addict. It works really well. I've made 2 million already.
