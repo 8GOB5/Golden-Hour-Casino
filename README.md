@@ -36,7 +36,7 @@ The script continuously searches for slot machines in the game environment and i
 - **Execution Environment**: A platform or executor capable of running Roblox scripts.
 
 ## Disclaimer
-
+- **This Script is not Free**: Believe it or not, I want to get paid for the work I have done. Thus, access to this script is paid. It's cheaper than access to Deepwoken though.
 - **Educational Purposes**: This script is intended for educational purposes only.
 - **Use at Your Own Risk**: The use of exploits violates Roblox's terms of service. Use this script responsibly and at your own risk.
 - **No Warranty**: The script is provided "as-is" without any warranty. The creator is not responsible for any consequences arising from its use.
