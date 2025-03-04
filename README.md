@@ -2,7 +2,7 @@
 
 # Note
 ![image](https://github.com/user-attachments/assets/33e5bb7e-d4c5-4f2b-b6e9-abc3774f5564)
-I'm considering this a victory. Newcomers, the script still works. Not making it free though. GG's Snille but you kind of went off script when you banned me from the Discord server too (I can't appeal when you don't let me lmao.) Anyways I added you. Hmu if you want the source code and you can patch it. For now though I'm keeping this script accessible! Oh also since you wanted to know why. The simple answer is that I was bored. You should be happy though that someone cares enough to do this.
+I'm considering this a victory. Newcomers, the script still works. Not making it free though. GG's Snille but you kind of went off script when you banned me from the Discord server too (I can't appeal when you don't let me lmao.) Anyways I added you. Hmu if you want the source code and you can patch it. For now though I'm keeping this script accessible! Oh also since you wanted to know why. The simple answer is that I was bored. You should be happy though that someone cares enough to do this. (I'm keeping this script updated btw.) Fell for rage bait in the big 25...
 
 # Loadstring
 ```
